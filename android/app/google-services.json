@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "246785749201",
+    "project_id": "roamwise-f3917",
+    "storage_bucket": "roamwise-f3917.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246785749201:android:f315c78ff0e868252b55f0",
+        "android_client_info": {
+          "package_name":"com.example.roamwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246785749201-d80fkpkqdjl6dsq7kjmnd77qc1fu6qnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKsqQNGZSDJQpiukmjOXxt4nL0N1r3l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246785749201-d80fkpkqdjl6dsq7kjmnd77qc1fu6qnf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246785749201-s1pa5okv1gf47j64m6afohu4p85n2bg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.roamwise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
